@@ -1,3 +1,3 @@
 # java-res
 
-* JDK1.8   Maven 3.4.1
+* JDK1.8   Maven 3.6.1
